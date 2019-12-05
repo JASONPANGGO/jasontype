@@ -1,6 +1,6 @@
 # 极简类型检测函数type
 
-## usage
+## Usage
 1. `npm i jasontype`
 2. 引用type函数返回其类型
 ```javascript
